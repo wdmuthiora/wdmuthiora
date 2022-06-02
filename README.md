@@ -3,12 +3,16 @@
 
 <h1> I'm Wathiru Muthiora </h1>
 
-I'm a **Software Engineer** . I don’t like to define myself by the work I’ve done, I define myself by the work I want to do. I have a penchant to keep learning, continue challenging and improving myself. To me, software development is a moving target, and that's why I don't seek perfection but push myself above my current level of ability. I’m a fast learner, fueled by high energy levels and boundless enthusiasm, able to pick up new skills and juggle different projects and roles with relative ease. I am a positive, motivated and hard-working person who is keen to understand the company and individual needs, analyze problems and recommend suitable solutions. I am a very organized person who is able to manage changing projects based on priorities. I have excellent communication skills that allow me to work effectively and positively with staff and external stakeholders.
+I'm a **Software Engineer** and I love programming. I don’t like to define myself by simply limiting to the work I’ve done, but also the work I want to do. I have a penchant to keep learning, continue challenging and improving myself. To me, software development is a moving target, and that's why I don't simply seek perfection but push myself above my current level of ability.
+
+I’m a fast learner, fueled by high energy levels and boundless enthusiasm, able to pick up new skills and juggle different projects and roles with relative ease. I am a positive, motivated and hard-working person who is keen to understand the company and individual needs, analyze problems and recommend suitable solutions. I am a very organized person who is able to manage changing projects based on priorities. I have excellent communication skills that allow me to work effectively and positively with staff and external stakeholders. 
+
+I look forward to having a cup of coffeee while we get to know each other better.
 
 ## Portfolio
 - [https://wdmuthiora.github.io/Portfolio](https://wdmuthiora.github.io/Portfolio)
 
-## Skill Set :muscle:
+## Skill Set
 
 These are some of the technologies that I use.
 
@@ -27,10 +31,6 @@ These are some of the technologies that I use.
 <img title="PosgreSQL" alt="Postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"> <br>
 |--|--|
 
-**Unit Testing**
-
-<img title="JUnit" alt="JUnit" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/j-unit/j-unit.png"> <br>
-|--|
 
 ## Some of my stats :bar_chart:
 
@@ -44,14 +44,19 @@ These are some of the technologies that I use.
 </a>
 
 
+## I'm  currently ...
+- 🔭 working on a modern, responsive, front-end for an eCommerce site.
+
+- 👯 open to collaborate on Springboot.
+
+
+
 <!--
 **wdmuthiora/wdmuthiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
