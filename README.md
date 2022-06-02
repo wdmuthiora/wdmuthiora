@@ -6,7 +6,7 @@
 I'm a **Software Engineer** . I don’t like to define myself by the work I’ve done, I define myself by the work I want to do. Skills can be taught, personality is inherent. I have a penchant to keep learning, continue challenging and improving myself. To me, software development is a moving target, and that's why I don't seek perfection but push myself above my current level of ability. I’m a fast learner, fueled by high energy levels and boundless enthusiasm, able to pick up new skills and juggle different projects and roles with relative ease. I am a positive, motivated and hard-working person who is keen to understand the company needs, analyze problems and recommend suitable solutions. I am a very organized person who is able to manage changing projects based on priorities. I have excellent communication skills that allow me to work effectively and positively with staff and external stakeholders.
 
 ## Portfolio
-- [https://wdmuthiora.github.io/Portfolio] (https://wdmuthiora.github.io/Portfolio)
+- [https://wdmuthiora.github.io/Portfolio](https://wdmuthiora.github.io/Portfolio)
 
 ## Skill Set :muscle:
 
@@ -14,8 +14,8 @@ These are some of the technologies that I use.
 
 **Programming Languages**
 
-<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="Kotlin" alt="kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
-|--|--|--|--|
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="Kotlin" alt="kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">|<img title="html" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img title="css" alt="css" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+|--|--|--|--|--|--|
 
 **Libraries and Frameworks**
 
