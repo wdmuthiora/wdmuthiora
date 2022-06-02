@@ -27,6 +27,11 @@ These are some of the technologies that I use.
 <img title="PosgreSQL" alt="Postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"> <br>
 |--|--|
 
+**Unit Testing**
+
+<img title="JUnit" alt="JUnit" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/junit/junit.png"> <br>
+|--|
+
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=wdmuthiora&show_icons=true&theme=radical&include_all_commits=true">
