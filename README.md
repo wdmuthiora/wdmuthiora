@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
 
 
 
-<h1>Hi There, I'm Wathiru Muthiora <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1> I'm Wathiru Muthiora </h1>
 
 I'm a **Software Engineer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning Springboot.
 
 ## Portfolio
-- [https://wdmuthiora.github.io/Portfolio](https://wdmuthiora.github.io/Portfolio/Pages/)
+- [https://wdmuthiora.github.io/Portfolio](https://wdmuthiora.github.io/Portfolio)
 
 ## Skill Set :muscle:
 
