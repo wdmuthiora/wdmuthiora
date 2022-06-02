@@ -19,7 +19,7 @@ These are some of the technologies that I use.
 
 **Libraries and Frameworks**
 
-<img title="Springboot" alt="Springboot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/springboot/springboot.png">|<img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="Spark" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spark/spark.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">
+<img title="Springboot" alt="Springboot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">|<img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="Spark" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spark/spark.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">
 |--|--|--|--|--|
 
 **Databases**
