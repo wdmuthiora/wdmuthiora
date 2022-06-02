@@ -1,29 +1,25 @@
-### Hi there 👋 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-
-
-
+### Hi there 👋 
 
 
 <h1> I'm Wathiru Muthiora </h1>
 
-I'm a **Software Engineer** . My day to day work involves developing applications for various problems. I'm open to collaborate on interesting projects. Currently learning Springboot.
+I'm a **Software Engineer** . I don’t like to define myself by the work I’ve done, I define myself by the work I want to do. Skills can be taught, personality is inherent. I have a penchant to keep learning, continue challenging and improving myself. To me, software development is a moving target, and that's why I don't seek perfection but push myself above my current level of ability. I’m a fast learner, fueled by high energy levels and boundless enthusiasm, able to pick up new skills and juggle different projects and roles with relative ease. I am a positive, motivated and hard-working person who is keen to understand the company needs, analyze problems and recommend suitable solutions. I am a very organized person who is able to manage changing projects based on priorities. I have excellent communication skills that allow me to work effectively and positively with staff and external stakeholders.
 
 ## Portfolio
-- [https://wdmuthiora.github.io/Portfolio](https://wdmuthiora.github.io/Portfolio)
+- [https://wdmuthiora.github.io/Portfolio] (https://wdmuthiora.github.io/Portfolio)
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use.
+These are some of the technologies that I use.
 
 **Programming Languages**
 
-<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="Kotlin" alt="kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="Kotlin" alt="kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
 |--|--|--|--|
 
 **Libraries and Frameworks**
 
-<img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Spark" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spark/spark.png">
+<img title="Jquery" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="Spark" alt="Spark" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spark/spark.png">
 |--|--|--|--|
 
 **Databases**
