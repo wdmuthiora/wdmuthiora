@@ -29,7 +29,7 @@ These are some of the technologies that I use.
 
 **Unit Testing**
 
-<img title="JUnit" alt="JUnit" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/junit/junit.png"> <br>
+<img title="JUnit" alt="JUnit" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/j-unit/j-unit.png"> <br>
 |--|
 
 ## Some of my stats :bar_chart:
